@@ -11,7 +11,7 @@ export default function Hero() {
   }
 
   return (
-    <section id="home" className="relative min-h-screen pt-32 pb-20 px-6 overflow-hidden">
+    <section id="home"  className="relative lg:min-h-[72vh] min-h-screen pt-28 lg:pt-16 pb-16 lg:pb-6 px-6 overflow-hidden flex items-center">
       {/* Decorative Background Elements */}
       <div className="absolute inset-0 overflow-hidden pointer-events-none">
         <div className="absolute top-20 right-0 w-96 h-96 bg-purple-200 rounded-full mix-blend-multiply filter blur-3xl opacity-20 animate-blob" />
