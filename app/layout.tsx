@@ -8,7 +8,7 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: 'Crawler - Premium SEO Agency | Boost Your Website Rankings 🚀',
-  description: 'Transform your online presence with our comprehensive SEO solutions. Drive organic traffic, improve rankings, and grow your business with our premium SEO agency.',
+  description: 'Transform your online presence with our comprehensive SEO solutions. Drive organic traffic, improve rankings, and grow your business with our premium SEO agency.✨',
   icons: {
     icon: [
       {
