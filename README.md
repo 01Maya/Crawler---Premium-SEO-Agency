@@ -10,3 +10,6 @@ It includes animated hero illustrations, infinite carousels, smooth scrolling na
 ---
 
 # ✨ Features
+
+- 📱 Fully Responsive Design
+- 🎨 Consistent Purple-Pink Gradient Theme
