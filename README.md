@@ -13,3 +13,5 @@ It includes animated hero illustrations, infinite carousels, smooth scrolling na
 
 - 📱 Fully Responsive Design
 - 🎨 Consistent Purple-Pink Gradient Theme
+- 🎯 Hover Effects & Micro Interactions
+- 💎 Glassmorphism UI Effects
