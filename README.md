@@ -20,5 +20,9 @@ It includes animated hero illustrations, infinite carousels, smooth scrolling na
 - 🔥 Elegant CTA Banner
 - 📊 Interactive Case Study Cards
 - 💳 Animated Pricing Cards
+- ✨ Shine Hover Animations
+- 🚀 Smooth Ease In-Out Transitions
+
+
 
 
