@@ -23,6 +23,6 @@ It includes animated hero illustrations, infinite carousels, smooth scrolling na
 - ✨ Shine Hover Animations
 - 🚀 Smooth Ease In-Out Transitions
 
-
+---
 
 
