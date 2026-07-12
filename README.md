@@ -18,3 +18,7 @@ It includes animated hero illustrations, infinite carousels, smooth scrolling na
 - 🌈 Gradient Buttons & Cards
 - 🪄 Floating Decorative Elements
 - 🔥 Elegant CTA Banner
+- 📊 Interactive Case Study Cards
+- 💳 Animated Pricing Cards
+
+
