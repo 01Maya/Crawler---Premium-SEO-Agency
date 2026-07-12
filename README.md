@@ -16,3 +16,5 @@ It includes animated hero illustrations, infinite carousels, smooth scrolling na
 - 🎯 Hover Effects & Micro Interactions
 - 💎 Glassmorphism UI Effects
 - 🌈 Gradient Buttons & Cards
+- 🪄 Floating Decorative Elements
+- 🔥 Elegant CTA Banner
