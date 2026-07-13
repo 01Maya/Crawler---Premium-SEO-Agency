@@ -27,5 +27,6 @@ It includes animated hero illustrations, infinite carousels, smooth scrolling na
 
 # 🧩 Sections
 
-
+### Hero Section
+Displays a bold SEO marketing headline with animated illustrations, CTA buttons, and smooth floating visual effects.
 
