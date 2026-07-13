@@ -33,3 +33,7 @@ Displays a bold SEO marketing headline with animated illustrations, CTA buttons,
 ### Trusted Brands
 Shows trusted company logos in an elegant horizontal brand showcase section.
 
+### Services Section
+Highlights core SEO and digital marketing services using modern interactive cards.
+
+
