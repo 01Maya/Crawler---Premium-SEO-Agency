@@ -30,3 +30,6 @@ It includes animated hero illustrations, infinite carousels, smooth scrolling na
 ### Hero Section
 Displays a bold SEO marketing headline with animated illustrations, CTA buttons, and smooth floating visual effects.
 
+### Trusted Brands
+Shows trusted company logos in an elegant horizontal brand showcase section.
+
