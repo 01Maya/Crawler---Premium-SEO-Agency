@@ -39,4 +39,7 @@ Highlights core SEO and digital marketing services using modern interactive card
 ### Digital Marketing Section
 Showcases one-stop digital marketing solutions with animated illustration and service tags.
 
+### Case Studies Section
+Displays animated case study cards with growth statistics, carousel interaction, and flip card effects.
+
 
