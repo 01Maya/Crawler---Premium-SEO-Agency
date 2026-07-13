@@ -25,4 +25,7 @@ It includes animated hero illustrations, infinite carousels, smooth scrolling na
 
 ---
 
+# 🧩 Sections
+
+
 
