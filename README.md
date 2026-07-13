@@ -51,3 +51,4 @@ Encourages users to start SEO growth journey with animated target illustration, 
 ### Footer Section
 Contains quick links, services, newsletter form, social icons, and contact information with a premium gradient background.
 
+---
