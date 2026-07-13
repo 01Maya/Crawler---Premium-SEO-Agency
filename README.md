@@ -42,4 +42,6 @@ Showcases one-stop digital marketing solutions with animated illustration and se
 ### Case Studies Section
 Displays animated case study cards with growth statistics, carousel interaction, and flip card effects.
 
+### Pricing Section
+Presents responsive pricing plans with hover animations, featured plan highlighting, and smooth card interactions.
 
