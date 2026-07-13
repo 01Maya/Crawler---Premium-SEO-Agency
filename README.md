@@ -36,4 +36,7 @@ Shows trusted company logos in an elegant horizontal brand showcase section.
 ### Services Section
 Highlights core SEO and digital marketing services using modern interactive cards.
 
+### Digital Marketing Section
+Showcases one-stop digital marketing solutions with animated illustration and service tags.
+
 
