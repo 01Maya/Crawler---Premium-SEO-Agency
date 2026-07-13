@@ -45,3 +45,7 @@ Displays animated case study cards with growth statistics, carousel interaction,
 ### Pricing Section
 Presents responsive pricing plans with hover animations, featured plan highlighting, and smooth card interactions.
 
+### CTA Banner
+Encourages users to start SEO growth journey with animated target illustration, contact details, and gradient CTA card.
+
+
