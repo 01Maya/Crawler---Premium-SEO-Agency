@@ -59,3 +59,5 @@ Contains quick links, services, newsletter form, social icons, and contact infor
 - Tailwind CSS
 - Framer Motion
 - Shadcn Ui
+
+---
