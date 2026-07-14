@@ -55,5 +55,7 @@ Contains quick links, services, newsletter form, social icons, and contact infor
 
 # 🛠️ Tech Stack
 
-- NextJs
+- Next.js
 - Tailwind CSS
+- Framer Motion
+- 
