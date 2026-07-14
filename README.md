@@ -58,4 +58,4 @@ Contains quick links, services, newsletter form, social icons, and contact infor
 - Next.js
 - Tailwind CSS
 - Framer Motion
-- 
+- Shadcn Ui
