@@ -52,3 +52,5 @@ Encourages users to start SEO growth journey with animated target illustration, 
 Contains quick links, services, newsletter form, social icons, and contact information with a premium gradient background.
 
 ---
+
+# 🛠️ Tech Stack
