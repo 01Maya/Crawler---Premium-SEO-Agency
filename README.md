@@ -75,3 +75,9 @@ https://crawler-seo-agency.vercel.app/
 ---
 
 # ⚙️ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/your-username/crawler-landing-page.git
+```
