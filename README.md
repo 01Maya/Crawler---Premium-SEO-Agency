@@ -110,6 +110,17 @@ http://localhost:3000
 
 ---
 
+# 📁 Project Structure
+
+```bash
+app/
+components/
+public/
+styles/
+```
+
+---
+
 # ⭐ Credits
 
 Designed with modern UI/UX inspiration focused on elegant SaaS landing page experiences and premium interaction design.
