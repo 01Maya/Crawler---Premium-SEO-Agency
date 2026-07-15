@@ -95,3 +95,9 @@ Go to the project folder:
 ```bash
 cd crawler-landing-page
 ```
+
+Run development server:
+
+```bash
+npm run dev
+```
