@@ -82,6 +82,14 @@ Clone the repository:
 git clone https://github.com/your-username/crawler-landing-page.git
 ```
 
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+
 Go to the project folder:
 
 ```bash
