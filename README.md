@@ -109,3 +109,7 @@ http://localhost:3000
 ```
 
 ---
+
+# ⭐ Credits
+
+Designed with modern UI/UX inspiration focused on elegant SaaS landing page experiences and premium interaction design.
