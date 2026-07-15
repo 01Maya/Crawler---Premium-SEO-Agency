@@ -81,3 +81,9 @@ Clone the repository:
 ```bash
 git clone https://github.com/your-username/crawler-landing-page.git
 ```
+
+Go to the project folder:
+
+```bash
+cd crawler-landing-page
+```
